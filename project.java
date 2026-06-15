@@ -283,7 +283,7 @@ public class project{
 
         } while (choice != 5);
 
-        sc.close();
+    
     }
 }
 
